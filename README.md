@@ -3,7 +3,7 @@
 This is my personal portfolio website built using **HTML, CSS, and JavaScript**.  
 It highlights my background, showcases some of my projects, and provides access to my resume.  
 
-🔗 **Live Demo**: [View Portfolio](https://yuvang-24.github.io/personal-portfolio/)  
+🔗 **Live Demo**: [View Portfolio](https://yuvang-singh-portfolio.netlify.app/)  
 
 ---
 
